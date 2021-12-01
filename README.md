@@ -1,6 +1,6 @@
 ####################################################
 # NES                                              #
-# Project for course of Networked Embedded Systems #
+# Project for Networked Embedded Systems course    #
 #                                                  #
 # Academic code for academic purposes only.        #
 ####################################################
